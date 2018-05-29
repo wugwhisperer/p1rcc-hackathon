@@ -1,4 +1,4 @@
-# trimericOGs
+# Team name: trimericOGs
 ## Main project focus: Classifying Tumor Stages based on Structural Variants in Patient Data
 
 ***Our initial goal was to make a phylogenetic tree of all the patients based on the structural variants from their sequencing data in order to see if we could identify the progression of mutants in prcc as the cancer progresses into later stages.***
